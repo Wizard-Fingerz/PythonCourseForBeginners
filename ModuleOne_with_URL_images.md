@@ -12,7 +12,7 @@ Think of a computer as a very intelligent but obedient machine. It can do almost
 | | |
 |---|---|
 | ![](image-1.png) | ![](image-2.png) | 
-| ![](image-4.png) |![](image-3.png) |
+
 
 For example, a computer can:
 
@@ -24,7 +24,7 @@ For example, a computer can:
 
 All these tasks are possible because programmers write instructions called **code**.
 
-![Programming Input Process Output](https://placehold.co/1200x500/0f172a/ffffff.png?text=INPUT+%E2%86%92+PROCESS+%E2%86%92+OUTPUT%0AProgramming+means+giving+clear+instructions+to+a+computer)
+![](image-1.png)
 
 **Figure 1:** Programming follows a simple pattern: the computer receives input, processes it, and gives output.
 
@@ -44,9 +44,12 @@ These instructions are called an **algorithm**.
 
 In programming, we write similar instructions for computers.
 
-![Algorithm Example](https://placehold.co/1200x600/f8fafc/0f172a.png?text=Algorithm+Example%0ABoil+Water+%E2%86%92+Put+Tea+Bag+%E2%86%92+Pour+Water+%E2%86%92+Add+Sugar+%E2%86%92+Stir)
+![](image-3.png)
+
+![](image-4.png) 
 
 **Figure 2:** An algorithm is a step-by-step process for solving a problem.
+
 
 ### Who is a Programmer?
 
