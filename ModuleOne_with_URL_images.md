@@ -9,9 +9,7 @@
 Programming is the process of giving instructions to a computer so that it can perform specific tasks.
 
 Think of a computer as a very intelligent but obedient machine. It can do almost anything, but only if you tell it exactly what to do.
-| | |
-|---|---|
-| ![](image-1.png) | ![](image-2.png) | 
+ ![](image-2.png)
 
 
 For example, a computer can:
