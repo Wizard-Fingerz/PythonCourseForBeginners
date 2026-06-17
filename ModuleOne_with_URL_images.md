@@ -107,11 +107,26 @@ Examples include:
 
 # 3. Python Use Cases
 
-Python can be used in many industries.
+Instead of only listing AI, Web, Data Science, etc., show examples visually.
 
-![Python Use Cases](https://placehold.co/1200x650/e0f2fe/0f172a.png?text=Python+Use+Cases%0AAI+%7C+Web+Development+%7C+Cybersecurity+%7C+Data+Analysis+%7C+Automation)
+![Image](https://images.openai.com/static-rsc-4/f1Vc0WiAkc2OwnB50s0vhDXVtn6IcquOVqzj7XLDMDd_ox5fTjJtJzQl3vilzN1eGBtBk1a5Har7hdHMxgktg6lKolPI104fs5EHUlGFYBDY0058Y4bCUpBtfKlaCWlEq2VvTAahawfEDUy7hgszgVG2ylOZ1mzNKh8VTJMDBtLGSlMVxQS60NUM_2AD4KcP?purpose=fullsize)
 
-**Figure 4:** Python is useful in many fields, from web development to artificial intelligence.
+![Image](https://images.openai.com/static-rsc-4/k7QKlKzVcJstUeJPkhdBuK3a2lkLtsIJuw4sRmp_paDF7wErfnAtN869p6Kr7YFEBgvbIZCoF9RbYXc2Gy9uotJ8dxjXXXUvC5oyBIEM2Owl5jj9KacJawyIa-dqIVYLPGX8qpbmAIOjRrEBYsKY3I9RgoHvRk-ebsRIORUZ8IXFNE1jZAqa8nyv_EDMB-sX?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/Z1AVku4FwdG-TN6NPvFQGWYD4HiQDrxKuJKi0i8d_hQTxNupJCAsD66kNWTydN4Ht2YcIqWj_qHOFY-BIsWrNbKtO6jr5eopJRPHEFVBYMAs-qGuwOKUKKnNqqt4jGwz-7D0o8VDs5vbbi9UHmmCbp1PuQZVc8uX3PILdLDRnoccuTUgOxQdZwqM8r-qvw7x?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/6y1lH4BX9rO8naM4UtMya33zcro2vHwDbKStnw9xjhQH8Uy-wqvl-L8VuS4xfPIr4HxQOfxPJLbch599HlVsxM0_Hky4izu0nExuDKHnn17e2tJcRgzSbuFGZKOQm-sKCGUhZfkBfojWQ8zsMk0hzxb1yolZNW4_TBx0EGbF5VaKGBBMlFkrjM5jDqb7QPTA?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/QRbU5Jp5FBGpeOLHlzGMfTj0hVAyK-XxKTgj_fo_SW4qBLuyYbky0pICMdqlU7g6gSaaxTL7EOJWBTsg-fyzk4JrWXIYN_5Mx4YAdp4Hmr8HKD7yvpCSKKyZ3lFqiMloMgaM8rCR3brYUU5EU0P_ib5lhZfKXS4hjj6xtyfnqsj_uFtkzb7bOZvMn0VXVzUN?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/dQVf8mbG6Dhbu8sowaz-u4oObyNW9FfD7PUvCbx1Fs-iLI-UnhDAD1rh76RYf-QT6_FSYFilT3PkVp8sGLl1RmnoHqyEqfAGb28BtJ0dCxgvJ5V4aL2dzOvxIGoP_u-sYEh1gDlxuorjPQq6v67NA8TbTU7NblHx7DIlgq736sI-pC5bklpgL6odbvCz3pIc?purpose=fullsize)
+
+Explain:
+
+* AI → ChatGPT-like systems
+* Web → Websites and APIs
+* Data → Analytics dashboards
+* Automation → Repetitive task automation
 
 ## A. Artificial Intelligence (AI)
 
