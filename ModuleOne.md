@@ -35,7 +35,7 @@ In programming, we write similar instructions for computers.
 ### Who is a Programmer?
 
 A programmer is someone who writes code to solve problems using a computer.
-
+![alt text](image.png)
 Examples:
 
 * Web Developers
