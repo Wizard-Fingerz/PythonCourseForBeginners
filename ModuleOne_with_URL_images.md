@@ -478,7 +478,14 @@ Step 3
 
 Python follows the instructions exactly in the order they appear.
 
-![Python Execution Flow](https://placehold.co/1200x650/fefce8/713f12.png?text=Python+Execution+Flow%0ALine+1+%E2%86%93%0ALine+2+%E2%86%93%0ALine+3+%E2%86%93%0AOutput)
+
+![Image](https://images.openai.com/static-rsc-4/1ZKmZXe1XLoJ6VsJKffD3OAH3JL68g5seSZvWUGN5FoP6omVSo8Vng4iAi_SIPVyPKXYixdUfM0H8mMMNgiupbxJr-aNejNOQp1O1HnrNtlkRT3DmIgRzdQr1JPqi670nrf1MBIZsJiqrVTwEGVp0r5FQFOrlwFrBV5j-IJ3cBhcOB4JcPMsTvcTyL1ojtN9?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/zRvgV2Yr64126bG1NA87A4vmfEXVotVz5BjZlYE03PjG86fW_IReTkwbH2wwUmSCOjoJvUhwiIOhDnkVifxrxJRJd2JVjk3YOyArV_hYljhPJ579lKYvh6gavufhg_MKeJ6cp8SbN0jGNVDITcScNmEnOtukGZtWXagFk8rEdAQPsKJQ4hVlOyEzTP4C6NdT?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/D8O3A3IrcwvqUmpN6TQr4WMwauGtuC5oJh4Fsjvhp5FREBNX739hKr9NPKBvThPWaSvMTdO8ihJW9GLnW64rW3LB-UtYMe1Wo-7NMFVysUaWRPfckFc4Ehqo0OvlOiEZGrDsRhxWerAVxqMNCUidDmrkGUX4weKDJMvk5_vXwzeBh1utnSJOqsfRk8Hrr7Un?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/zMgcD3kTbjK7q463dW1cBcn7WkDOlxe4iU134HBA-GHImstavALhdHtj4uqt_kry2Zx9X5FIo_xNguXXkuizWsZ-Y3FKVXkVlcqPJZURJuFX_tzWLUEMgk6Li-HaGpBjSf6zyEINE7eiMzfeSK-Mq6D2U1BtahcozEbFmz29_FkgWFnhXrowFJR87EswsbhA?purpose=fullsize)
 
 **Figure 14:** Python reads code line by line from top to bottom.
 
@@ -513,10 +520,6 @@ This process is called:
 
 **Debugging**
 
-![Debugging Process](https://placehold.co/1200x600/f3e8ff/581c87.png?text=Debugging+Process%0ARead+Error+%E2%86%92+Find+Line+%E2%86%92+Understand+Cause+%E2%86%92+Fix+Code+%E2%86%92+Run+Again)
-
-**Figure 15:** Debugging is the process of finding and fixing errors in code.
-
 ---
 
 ## Common Error 1: Syntax Error
@@ -544,10 +547,6 @@ Correct version:
 ```python
 print("Hello World")
 ```
-
-![Syntax Error](https://placehold.co/1200x600/fee2e2/7f1d1d.png?text=SyntaxError%0AProblem%3A+Missing+closing+bracket%0AFix%3A+print(%22Hello+World%22))
-
-**Figure 16:** Syntax errors usually happen when Python cannot understand the code structure.
 
 ---
 
@@ -577,10 +576,6 @@ Correct version:
 age = 25
 print(age)
 ```
-
-![Name Error](https://placehold.co/1200x600/ffedd5/7c2d12.png?text=NameError%0AProblem%3A+Variable+was+not+created%0AFix%3A+age+%3D+25+then+print(age))
-
-**Figure 17:** Name errors happen when Python sees a name it does not recognize.
 
 ---
 
@@ -615,10 +610,6 @@ Output:
 ```text
 15
 ```
-
-![Type Error](https://placehold.co/1200x600/dbeafe/1e3a8a.png?text=TypeError%0AProblem%3A+Text+%2B+Number%0AFix%3A+Convert+%2210%22+to+integer+first)
-
-**Figure 18:** Type errors happen when the data types do not match the operation.
 
 ---
 
