@@ -211,8 +211,6 @@ Automation saves time and reduces human error.
 
 Before writing Python programs, we must install Python on our computer.
 
-![Python Installation Guide](https://placehold.co/1200x550/fff7ed/0f172a.png?text=Python+Installation+Process%0AVisit+Website+%E2%86%92+Download+Python+%E2%86%92+Install+%E2%86%92+Verify+Installation)
-
 **Figure 5:** Python installation follows four basic steps.
 
 ## Step 1: Visit the Python Website
@@ -221,7 +219,8 @@ Go to:
 
 https://www.python.org
 
-![Python Website](https://placehold.co/1200x600/ffffff/0f172a.png?text=Step+1%3A+Open+www.python.org%0AClick+Downloads+to+get+Python)
+
+![Image](https://images.openai.com/static-rsc-4/hBAGvuaQPeDvGZptmij2w6Zmp5Eu8p841RrIXnBa7YAeW_tln0L17intVJmsZRKtuEwLI0UT_P_kKabXO0r9NmdcysXtrBbMv86pwKE7H8cixZDOUu14PA3ZNYGEcYZ9Nuyrnh6-TRTQ61PhQQ-9mMG_x1bJsR04y1epPOPY5ynQGyJjOHbl6rodWjzKrmQk?purpose=fullsize)
 
 **Figure 6:** Open the official Python website and locate the download section.
 
@@ -233,7 +232,7 @@ Example:
 
 Python 3.x
 
-![Download Python](https://placehold.co/1200x600/dbeafe/0f172a.png?text=Step+2%3A+Download+Python+3.x%0AChoose+the+latest+stable+version+for+your+operating+system)
+![Image](https://images.openai.com/static-rsc-4/b9se9uA8gaL46Mhf7V6oq7sEwYXvWkOU6mtqrAciX0A4UOKRQywf2mkxsgAtkyblKWVopnw_sIAb20p4eeqCVdQj_o68WU4EJ4V95m8VQ_GeOHfkx0Moalyiqzp6LNqW5qYWzcyRY7nHzhp_X_lPyD0ljacOgGIHmGJ-XE88buYc0s0CHEBl4FDpLhe1T2Yy?purpose=fullsize)
 
 **Figure 7:** Download the correct Python version for your operating system.
 
@@ -249,7 +248,16 @@ Then click:
 
 **Install Now**
 
-![Add Python to PATH](https://placehold.co/1200x600/fef2f2/991b1b.png?text=Important%3A+Tick+Add+Python+to+PATH%0AThen+click+Install+Now)
+
+
+![Image](https://images.openai.com/static-rsc-4/fYc7TEXxbizbVOk8qM0O59Elc7IsDvTFKP2VB25k9HiMRfRp5swjr1NbP4n4hTz29ktfVQb7YBJmyFZ9BMgsYeWDapFOF1GJnKiwRm245L9CRxbqKcX0WDF-NZmUzDaf1i2FrFlxvzDqbSYzlUQhzPGnL0HUzVK5kSv75SjtrcB-xMTUViP_bK2CwoOKvXiZ?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/jULgpD8Q-69A7oCQ13BdgmyHX4g8WD6R_I_dSPKtF0dU39gjgwtWktAqRy6mDVYOMX-tzy569IssW01y8-Mk1CJN6z-bRJOenDH3BR5DhUBQqDkHPGq-_x13KUmr0V1yd6PaZBrVwaMyHa7tQw3CH1x5rkJzlcjh8e2sk0o2qFfoJWQxg3K6YSw-PcWBN4ri?purpose=fullsize)
+
+
+
+![Image](https://images.openai.com/static-rsc-4/ieQDVBhhk5IbP9evmHwPSRH0um6r1Y9XuuroqIgI5YGtWzrR0ZasMSTivFocworH5Yf2p3LV_7CS77nVXq_FbuzbI7p1YQ3okqOXL_chfESZRMIMYQBSntFy-67Gzdh6wc3jNnvbA33_YUvN0aihX_Hdwil-WG2aWbohtBYzdI96pIBLZNl2Uj3dstbjtlRh?purpose=fullsize)
+
 
 **Figure 8:** Beginners often forget this step. Always tick **Add Python to PATH** before installing.
 
