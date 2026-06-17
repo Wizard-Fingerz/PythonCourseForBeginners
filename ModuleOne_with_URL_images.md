@@ -250,7 +250,7 @@ Then click:
 
 
 
-![Image](https://images.openai.com/static-rsc-4/fYc7TEXxbizbVOk8qM0O59Elc7IsDvTFKP2VB25k9HiMRfRp5swjr1NbP4n4hTz29ktfVQb7YBJmyFZ9BMgsYeWDapFOF1GJnKiwRm245L9CRxbqKcX0WDF-NZmUzDaf1i2FrFlxvzDqbSYzlUQhzPGnL0HUzVK5kSv75SjtrcB-xMTUViP_bK2CwoOKvXiZ?purpose=fullsize)
+![Image](https://images.openai.com/static-rsc-4/N42TtXY6S6yQf4rfrJNWyz01nt5oyqJ8PDj6BD0mhL3FWboAQOeP7GObDF_CZBjamzb9lNZ4q8gK6hZ8X7LTUJc00M9dNX0999mc_MX4RT0xICNlfN3-u4EHxMLSGjdDhjdyI85SwSy2x8fbSb5EfLIVtovHRaDpK4wkuR2UlkrxvID2nE3uIq6lH9Evf0fN?purpose=fullsize)
 
 ![Image](https://images.openai.com/static-rsc-4/jULgpD8Q-69A7oCQ13BdgmyHX4g8WD6R_I_dSPKtF0dU39gjgwtWktAqRy6mDVYOMX-tzy569IssW01y8-Mk1CJN6z-bRJOenDH3BR5DhUBQqDkHPGq-_x13KUmr0V1yd6PaZBrVwaMyHa7tQw3CH1x5rkJzlcjh8e2sk0o2qFfoJWQxg3K6YSw-PcWBN4ri?purpose=fullsize)
 
@@ -360,7 +360,13 @@ Advantages:
 3. Create a Python file
 4. Start coding
 
-![VS Code Setup](https://placehold.co/1200x650/dbeafe/0f172a.png?text=VS+Code+Setup%0A1.+Download+VS+Code%0A2.+Install+Python+Extension%0A3.+Create+hello.py%0A4.+Run+Your+Code)
+![Image](https://images.openai.com/static-rsc-4/x5kQPyM6nxE51igAScaPa6Wv50UHi6HdgRXfGyfZnLT29k2qpQ-Kps1-fxNkdLpoKpn8VGYLzxavO2QRK7G6XFETbEG1tbSfMui2QW2CXtGDr7DIfR19whrBRouYGl901QzVupwxtQXaveog7HO6pHDtJuIed4PVwlvX62Kp0lIM3hv7bHC1cOBfEH8OCsd6?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/L05mMWrzUDj6yFIPfLeG9kWRDm7-MkvNgRajo3t2kHkwUCa032RTCREJBZxT_PA5kPaXO8ON_kr02NsNs5vXP5CPipu1JH0zensJ76kZ5-xkWxvw-7rv-91-uQy9ArRcqfJySMpjAvdx4I9CxL4mGSO-mwbJQHyF_bwaoG_WYAhjniysCXGYztYWeimth36Q?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/0xw2ktMKMuJkXUM7FczNYSIy7DO_OG8P-5DI-lz76SQ626gEMSnnYhyXk0eXfwoVJ0rWkjY_-ioGg7TniXjuRBR6JoPuINEcO4eEonZT5GPSGO3AkUrGXiZ53B-V5Rzu1zhKCzGaifoaz6Dg9twNQ5c9YFQzKOUj2VYOywsK0QNqRWUmghLiJBuav3EhAyZ0?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/PYkjCv3hkEk10h2VvZJ0ABwPrDZylN-CfCu4ybK6O2c_m0usK_2wrYHEl2ML8imQwBWXVD_9MIvrhb-3D6CN1r-N3uz7H9ucmdEFTED4JHqtNAlTEtenfNIhabBCGuzj0r8KnMp8JWsG4rxsaMWSigBBI9MEYesrgNK7ogrKgMEhrKDoNZPgQy-0m9Y9TqKL?purpose=fullsize)
 
 **Figure 12:** VS Code is a good beginner-friendly editor for Python.
 
@@ -393,6 +399,17 @@ Jupyter Notebook is best for:
 
 It is not ideal for building large software projects.
 
+![Image](https://images.openai.com/static-rsc-4/r1eo3i-l2LBAVnjFHLY70BDmio8RRVwgLzDquUT3xu2LML-Y4vVlIGOKckYZL0Hb0BzxwJttnnKLhV48srQC635DIKAtS3bHjBRMEHcT3NSp3HomsfEBjTy1MSkwv9iIVYz0q1OxFEwbdUwLzjJyRzvwsES8yIAFVIqcTaNtRbS2g1fqN1ZhhqPaeuZgix81?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/zFKRZA5RNQukUyXk-nTK_rmimT8nw2eypSpvQLy0yIH5QJb6QZoFa2k3PJsJUhzJaPgMeMZKVtgHfpSR0S45UfPnOoPz0V3Gi6v6qEt-N4J6eG9rtRqbNH_thoOO_5H5Nno4Q5kSr3No7PjCTb8Je7Y2lLlW3Bhr8IH4AJocrMW-PI8EJg85ki33_nL1Riml?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/zsaKgmMmoRq2SI4iHnRrHfyGoYt5CPN3EXtv-kdndNze5acKZFvOGdGKUjwmYIwZah0r1-gwgL1vwf-iskPqZKmpr4t7lLQOaajPAFSrTqez1ePyREHtD2-Vx6oMkwOXBgJghv8hMHAl8FLyPgNF20HF5lJ-uXnPCDUt0VcqbwAl3HoqAGQgNK0si7fDBCOE?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/wy1UckzJnBucolZC2LSlMqj60nTdY-7lOXCqaaYqcR65s4rmxItbuPTkW7toQoILQQyMwv0Pq-1JcRARUcUZxdIrOWwpcWRfIJ1u8BKb_wDE_dizHQJo42L1MD706QPvDRovP1Zo2-Ace2PGezSRkWtIfrpZW16kMrHV4vbHfzQfyMoQgfull9qUPoeekfnw?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/LdgDsgNtPqg130NLiGsc9RcCXBEfWs1xoWqf5qpjp98Tj_I_w-6iCLv-pjXsMSSwHMJLmKBofBG0vApIWO6ZRpZSgaNb3KWXkWtTdTyqycfvr0yBJLwdQvJKEk6Sg48FTf6sniXUVD2h5yQu5bHgeOiHxDdi3AysFXIXlvV_2G5acHua0akcEPC85yj-gwGf?purpose=fullsize)
+
+
 ---
 
 # 7. Writing Your First Python Script
@@ -423,7 +440,15 @@ Hello World
 
 Congratulations! You have written your first Python program.
 
-![Hello World Process](https://placehold.co/1200x650/ecfdf5/064e3b.png?text=Your+First+Python+Script%0ACreate+hello.py+%E2%86%92+Write+print(%22Hello+World%22)+%E2%86%92+Run+%E2%86%92+See+Output)
+![Image](https://images.openai.com/static-rsc-4/upzM2adxJqjKkxXX1all88LmN_KP6XVGc0HTcepoLKPgJ3OvTGg-Cx-lSS8HP7u4cKnYjWMle16gD26Ql8sYQmr4siVGd7HEBO_LATEWXFFYc7qjwFqxleq6QwgyhjervK8Neejg0ycY0UGbFBjBapkJeQFKdF5VlyAy3lv5BFjiObWZyUE6S6c8N8TF1mA2?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/EDO9h4glYupTIhGS4zlS4Hjr8gOhmayevDdlpqBK6vBG42NNRi8FN1IY-UEQ1wZUn4PtQ0TdfjnJo8b0tHTO6jAW5lQ3Ryy0EadmwfmW3zOm_t8q7R9nEzwjA540Sa2MkSgBRezqxf0gp4IXRLBp3HyGv8IqLfprs_OXT9-QXVDRN-wJhHCFSiYruPepEDaQ?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/mZPRVmRocG1d8mt2OdOJFQQC0aNt60t4RipBWr6_eKnWZL5U3a9ppH94oiFe5c6rBjnbJ7d1DUfp7B_SN0zSIHIcbqYWDD4riXbNjK62gTS1U-NfLMnbCfePNwihfBogbHM3bDDJ1Hsp1ME95y7PCPTORqmNSt9qqKLslZ87hEDIgOYMGj6aj4pkFMLEexZc?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/BjfV5cDKgZqkxyWYxHQaI7UKCCTQOcYGdkkmChVHkf3lwjrWLPnEieh5fW05iygTWRhDPYGdwGR0FJk2RlEvtLSSsVFF0n7F-fzdZvstrkoucRj4PPqkaT-Zsi-tC8dlvcPnaN_FhSKyF2U5egPwSCaJxL7XSOB9DGcvfdfrKSJ997cMUHtzfs6eZMDWHHE8?purpose=fullsize)
+
+![Image](https://images.openai.com/static-rsc-4/yMjA1gM7WGJOiNa7OwQZ798nLB5rP4vzjifOuhz-NdTfQrIu8NoUj3A6oY9zH8BXNoq8buOiHGKNqBtW2cc9E4COKPLpWzUnX5u5_nfOx_9JxTcvrKrUe_ei1sXruHL_AaDigslJigzqTHdKSyyXiJZUC3PFBVKQirN-R-yf7fHeOBlzMvx07EM7zC4IBWut?purpose=fullsize)
 
 **Figure 13:** The first script teaches students how to create, write, run, and view program output.
 
