@@ -609,11 +609,26 @@ urls.py
 Add:
 
 ```python
+from django.urls import path
 from expenses.views import home
 
 urlpatterns = [
     path("", home),
 ]
+```
+
+Then in your main urls.py, register your expenses app urls like this;
+
+```python
+
+from django.contrib import admin
+from django.urls import include, path
+
+urlpatterns = [
+    path('admin/', admin.site.urls),
+    path('', include('expenses.urls')),
+]
+
 ```
 
 ---
