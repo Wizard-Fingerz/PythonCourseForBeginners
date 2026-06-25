@@ -1,0 +1,13 @@
+<h1>Add Expense</h1>
+
+<form method="POST">
+
+    {% csrf_token %}
+
+    {{ form.as_p }}
+
+    <button type="submit">
+        Save Expense
+    </button>
+
+</form>

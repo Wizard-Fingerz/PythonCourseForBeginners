@@ -1,0 +1,17 @@
+<h2>
+Delete Expense?
+</h2>
+
+<p>
+{{ expense.title }}
+</p>
+
+<form method="POST">
+
+    {% csrf_token %}
+
+    <button type="submit">
+        Confirm Delete
+    </button>
+
+</form>

@@ -368,6 +368,7 @@ class ExpenseForm(forms.ModelForm):
         model = Expense
 
         fields = [
+            "user",
             "title",
             "category",
             "amount",
