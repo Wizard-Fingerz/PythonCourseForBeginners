@@ -1,8 +1,19 @@
-from django.shortcuts import render
+from django.shortcuts import render, redirect
 from .models import Expense
 from django.http import HttpResponse
 from django.shortcuts import get_object_or_404
-
+from .forms import ExpenseForm, ExpenseForm, RegisterForm
+from django.contrib.auth import authenticate
+from django.contrib.auth import login
+from django.contrib.auth import logout
+from django.contrib.auth.decorators import login_required
+from django.db.models import (
+    Sum,
+    Count,
+    Avg,
+    Max,
+    Min
+)
 # Create your views here.
 
 def home(request):
@@ -11,9 +22,12 @@ def home(request):
     )
 
 
+@login_required
 def expense_list(request):
 
-    expenses = Expense.objects.all()
+    expenses = Expense.objects.filter(
+                    user=request.user
+                )
 
     return render(
         request,
@@ -24,8 +38,6 @@ def expense_list(request):
     )
 
 
-from .forms import ExpenseForm
-from django.shortcuts import redirect
 
 
 def add_expense(request):
@@ -77,7 +89,13 @@ def edit_expense(
 
         if form.is_valid():
 
-            form.save()
+            expense = form.save(
+                commit=False
+            )
+
+            expense.user = request.user
+
+            expense.save()
 
             return redirect(
                 "expense_list"
@@ -120,5 +138,157 @@ def delete_expense(
         "expenses/expense_delete.html",
         {
             "expense": expense
+        }
+    )
+
+
+
+
+def register(request):
+
+    if request.method == "POST":
+
+        form = RegisterForm(
+            request.POST
+        )
+
+        if form.is_valid():
+
+            form.save()
+
+            return redirect(
+                "login"
+            )
+
+    else:
+
+        form = RegisterForm()
+
+    return render(
+        request,
+        "expenses/register.html",
+        {
+            "form": form
+        }
+    )
+
+def login_view(request):
+
+    if request.method == "POST":
+
+        username = request.POST.get(
+            "username"
+        )
+
+        password = request.POST.get(
+            "password"
+        )
+
+        user = authenticate(
+            request,
+            username=username,
+            password=password
+        )
+
+        if user:
+
+            login(
+                request,
+                user
+            )
+
+            return redirect(
+                "dashboard"
+            )
+
+    return render(
+        request,
+        "expenses/login.html"
+    )
+
+
+def logout_view(request):
+
+    logout(request)
+
+    return redirect(
+        "login"
+    )
+
+@login_required
+def dashboard(request):
+
+    expenses = Expense.objects.filter(
+        user=request.user
+    )
+
+    total_expenses = (
+        expenses.aggregate(
+            Sum("amount")
+        )["amount__sum"]
+        or 0
+    )
+
+    total_transactions = (
+        expenses.count()
+    )
+
+    highest_expense = (
+        expenses.order_by(
+            "-amount"
+        ).first()
+    )
+
+    lowest_expense = (
+        expenses.order_by(
+            "amount"
+        ).first()
+    )
+
+    context = {
+        "total_expenses":
+            total_expenses,
+
+        "total_transactions":
+            total_transactions,
+
+        "highest_expense":
+            highest_expense,
+
+        "lowest_expense":
+            lowest_expense
+    }
+
+    return render(
+        request,
+        "expenses/dashboard.html",
+        context
+    )
+
+
+@login_required
+def reports(request):
+
+    category_report = (
+        Expense.objects.filter(
+            user=request.user
+        )
+        .values(
+            "category__name"
+        )
+        .annotate(
+            total=Sum("amount")
+        )
+        .order_by(
+            "-total"
+        )
+    )
+
+    return render(
+        request,
+        "expenses/reports.html",
+        {
+            "category_report":
+                category_report
         }
     )

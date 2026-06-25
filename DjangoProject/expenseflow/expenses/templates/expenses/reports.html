@@ -1,0 +1,26 @@
+<h1>Expense Reports</h1>
+
+<table border="1">
+
+<tr>
+    <th>Category</th>
+    <th>Total</th>
+</tr>
+
+{% for item in category_report %}
+
+<tr>
+
+<td>
+{{ item.category__name }}
+</td>
+
+<td>
+₦{{ item.total }}
+</td>
+
+</tr>
+
+{% endfor %}
+
+</table>
